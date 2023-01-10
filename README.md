@@ -1,2 +1,2 @@
 # Java-Programming-Duke
-Study Journal for Java Programming
+Eugenia's Study Journal for Java Programming
